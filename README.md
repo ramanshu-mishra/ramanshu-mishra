@@ -62,22 +62,22 @@
 
 <div align="left">
 
-  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/ramanshu_sharan_mishra/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
          height="35" alt="instagram logo" />
   </a>
 
-  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+  <a href="https://x.com/RamanshuSharan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge"
          height="35" alt="x logo" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ramanshumishra256@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
          height="35" alt="gmail logo" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/ramanshu-sharan-mishra-29905627b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
          height="35" alt="linkedin logo" />
   </a>
