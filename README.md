@@ -30,27 +30,27 @@
 <div>
   <h3>Some facts about me:</h3>
 
-  <p>
-    <img src="bullet.png" width="20" />
+  <p style="display:flex; align-items:center; gap:8px;">
+    <img src="bullet.png" width="25" />
     I'm a Full stack developer passionate for systems with advanced backend architecture
   </p>
 
-  <p>
+  <p style="display:flex; align-items:center; gap:8px;">
     <img src="bullet.png" width="25" />
     I'm <b>OPEN TO WORK</b>
   </p>
 
-  <p>
+  <p style="display:flex; align-items:center; gap:8px;">
     <img src="bullet.png" width="25" />
     I have no Life
   </p>
 
-  <p>
+  <p style="display:flex; align-items:center; gap:8px;">
     <img src="bullet.png" width="25" />
     I keep learning
   </p>
 
-  <p>
+  <p style="display:flex; align-items:center; gap:8px;">
     <img src="bullet.png" width="25" />
     I tend to bite more than I can chew
   </p>
