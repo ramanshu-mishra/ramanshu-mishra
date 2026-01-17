@@ -29,34 +29,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div> -->
 
-<div>
-  <div>Some facts about me:</div>
+<div class="facts">
+  <div class="title">Some facts about me:</div>
 
-  <div>
-    <img src="./bullet.png" alt="bullet" />
-    I'm a Full stack developer passionate for systems with advanced backend architecture
+  <div class="point">
+    <img src="bullet.png" alt="bullet" />
+    <span>I'm a Full stack developer passionate for systems with advanced backend architecture</span>
   </div>
 
-  <div>
-    <img src="./bullet.png" alt="bullet" />
-    I'm "OPEN TO WORK"
+  <div class="point">
+    <img src="bullet.png" alt="bullet" />
+    <span>I'm "OPEN TO WORK"</span>
   </div>
 
-  <div>
-    <img src="./bullet.png" alt="bullet" />
-    I have no Life
+  <div class="point">
+    <img src="bullet.png" alt="bullet" />
+    <span>I have no Life</span>
   </div>
 
-  <div>
-    <img src="./bullet.png" alt="bullet" />
-    I keep learning
+  <div class="point">
+    <img src="bullet.png" alt="bullet" />
+    <span>I keep learning</span>
   </div>
 
-  <div>
-    <img src="./bullet.png" alt="bullet" />
-    I tend to bite more than I can chew
+  <div class="point">
+    <img src="bullet.png" alt="bullet" />
+    <span>I tend to bite more than I can chew</span>
   </div>
 </div>
+
 
 
 ###
