@@ -10,7 +10,6 @@
 ###
 
 <img align="right" height="150" src="./svgs/gojo-satoru.gif"/>
-###
 
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -88,6 +87,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ramanshu-mishra/ramanshu-mishra/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ramanshu-mishra/ramanshu-mishra/output/github-snake.svg" alt="Snake animation" />
 
 ###
