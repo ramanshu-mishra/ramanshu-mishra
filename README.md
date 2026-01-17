@@ -38,22 +38,22 @@
   </p>
 
   <p>
-    <img src="bullet.png" width="20" />
+    <img src="bullet.png" width="25" />
     I'm <b>OPEN TO WORK</b>
   </p>
 
   <p>
-    <img src="bullet.png" width="20" />
+    <img src="bullet.png" width="25" />
     I have no Life
   </p>
 
   <p>
-    <img src="bullet.png" width="20" />
+    <img src="bullet.png" width="25" />
     I keep learning
   </p>
 
   <p>
-    <img src="bullet.png" width="20" />
+    <img src="bullet.png" width="25" />
     I tend to bite more than I can chew
   </p>
 </div>
