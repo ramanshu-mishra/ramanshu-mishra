@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./svgs/gojo-satoru.gif"  />
-
+<img align="right" height="150" src="./svgs/gojo-satoru.gif"/>
 ###
 
 <!-- <div align="left">
