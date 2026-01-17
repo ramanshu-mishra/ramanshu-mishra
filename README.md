@@ -33,27 +33,27 @@
   <h3>Some facts about me:</h3>
 
   <p>
-    <img src="bullet.png" width="14" />
+    <img src="bullet.png" width="20" />
     I'm a Full stack developer passionate for systems with advanced backend architecture
   </p>
 
   <p>
-    <img src="bullet.png" width="14" />
+    <img src="bullet.png" width="20" />
     I'm <b>OPEN TO WORK</b>
   </p>
 
   <p>
-    <img src="bullet.png" width="14" />
+    <img src="bullet.png" width="20" />
     I have no Life
   </p>
 
   <p>
-    <img src="bullet.png" width="14" />
+    <img src="bullet.png" width="20" />
     I keep learning
   </p>
 
   <p>
-    <img src="bullet.png" width="14" />
+    <img src="bullet.png" width="20" />
     I tend to bite more than I can chew
   </p>
 </div>
@@ -61,11 +61,29 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=x&logo=x&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+         height="35" alt="instagram logo" />
+  </a>
+
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge"
+         height="35" alt="x logo" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+         height="35" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+         height="35" alt="linkedin logo" />
+  </a>
+
 </div>
+
 
 ###
 
