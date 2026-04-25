@@ -15,22 +15,24 @@
 
 <div>
   <h3>Some facts about me:</h3>
-  <p>
-    <img src="bullet.png" width="25" style="vertical-align: middle;" />
-    I Code
-  </p>
-  <p>
-    <img src="bullet.png" width="25" style="vertical-align: middle;" />
-    I have no Life
-  </p>
-  <p>
-    <img src="bullet.png" width="25" style="vertical-align: middle;" />
-    I keep learning
-  </p>
-  <p>
-    <img src="bullet.png" width="25" style="vertical-align: middle;" />
-    All it takes is a smile to be my friend
-  </p>
+  <table>
+    <tr>
+      <td valign="middle">1</td>
+      <td valign="middle">I Code</td>
+    </tr>
+    <tr>
+      <td valign="middle">2</td>
+      <td valign="middle">I have no Life</td>
+    </tr>
+    <tr>
+      <td valign="middle">3</td>
+      <td valign="middle">I keep learning</td>
+    </tr>
+    <tr>
+      <td valign="middle">4</td>
+      <td valign="middle">All it takes is a smile to be my friend</td>
+    </tr>
+  </table>
 </div>
 
 ###
