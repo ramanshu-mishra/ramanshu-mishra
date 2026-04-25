@@ -15,24 +15,20 @@
 
 <div>
   <h3>Some facts about me:</h3>
-
-  <p style="display:flex; align-items:center; gap:8px; justify-content-center;">
-    <img src="bullet.png" width="25" />
+  <p>
+    <img src="bullet.png" width="25" style="vertical-align: middle;" />
     I Code
   </p>
-
-  <p style="display:flex; align-items:center; gap:8px; justify-content-center;">
-    <img src="bullet.png" width="25" />
+  <p>
+    <img src="bullet.png" width="25" style="vertical-align: middle;" />
     I have no Life
   </p>
-
-  <p style="display:flex; align-items:center; gap:8px; justify-content-center;">
-    <img src="bullet.png" width="25" />
+  <p>
+    <img src="bullet.png" width="25" style="vertical-align: middle;" />
     I keep learning
   </p>
-
-  <p style="display:flex; align-items:center; gap:8px; justify-content-center;">
-    <img src="bullet.png" width="25" />
+  <p>
+    <img src="bullet.png" width="25" style="vertical-align: middle;" />
     All it takes is a smile to be my friend
   </p>
 </div>
