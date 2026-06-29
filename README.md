@@ -13,7 +13,7 @@
 
 
 
-<div>
+<!-- <div>
   <h3>Some facts about me:</h3>
   <table>
     <tr>
@@ -33,7 +33,7 @@
       <td valign="middle">All it takes is a smile to be my friend</td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ###
 
